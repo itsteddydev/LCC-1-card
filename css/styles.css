@@ -32,10 +32,6 @@
   padding: 0;
 }
 
-main {
-  background: red;
-}
-
 #section1 {
   background-image: linear-gradient(
     var(--gradients--Light-slate-blue),
